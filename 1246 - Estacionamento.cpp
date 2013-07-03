@@ -1,3 +1,10 @@
+/*
+ACM-ICPC South America Contest (Brazil)
+Year: 2011
+Category: Final Phase
+Ad-Hoc
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
  
